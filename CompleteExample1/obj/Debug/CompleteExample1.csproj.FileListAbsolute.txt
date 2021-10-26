@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CompleteExample1\bin\Debug\CompleteExample1.exe.config
+C:\Users\ASUS\source\repos\CompleteExample1\bin\Debug\CompleteExample1.exe
+C:\Users\ASUS\source\repos\CompleteExample1\bin\Debug\CompleteExample1.pdb
+C:\Users\ASUS\source\repos\CompleteExample1\obj\Debug\CompleteExample1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CompleteExample1\obj\Debug\CompleteExample1.exe
+C:\Users\ASUS\source\repos\CompleteExample1\obj\Debug\CompleteExample1.pdb
+C:\Users\ASUS\source\repos\CompleteExample1\obj\Debug\CompleteExample1.csproj.AssemblyReference.cache
