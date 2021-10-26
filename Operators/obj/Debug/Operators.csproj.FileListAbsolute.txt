@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Operators\bin\Debug\Operators.exe.config
+C:\Users\ASUS\source\repos\Operators\bin\Debug\Operators.exe
+C:\Users\ASUS\source\repos\Operators\bin\Debug\Operators.pdb
+C:\Users\ASUS\source\repos\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Operators\obj\Debug\Operators.exe
+C:\Users\ASUS\source\repos\Operators\obj\Debug\Operators.pdb
