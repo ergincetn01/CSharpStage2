@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CsharpAfterBeginner\bin\Debug\CsharpAfterBeginner.exe.config
+C:\Users\ASUS\source\repos\CsharpAfterBeginner\bin\Debug\CsharpAfterBeginner.exe
+C:\Users\ASUS\source\repos\CsharpAfterBeginner\bin\Debug\CsharpAfterBeginner.pdb
+C:\Users\ASUS\source\repos\CsharpAfterBeginner\obj\Debug\CsharpAfterBeginner.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CsharpAfterBeginner\obj\Debug\CsharpAfterBeginner.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CsharpAfterBeginner\obj\Debug\CsharpAfterBeginner.exe
+C:\Users\ASUS\source\repos\CsharpAfterBeginner\obj\Debug\CsharpAfterBeginner.pdb
