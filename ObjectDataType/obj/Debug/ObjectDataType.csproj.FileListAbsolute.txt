@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ObjectDataType\bin\Debug\ObjectDataType.exe.config
+C:\Users\ASUS\source\repos\ObjectDataType\bin\Debug\ObjectDataType.exe
+C:\Users\ASUS\source\repos\ObjectDataType\bin\Debug\ObjectDataType.pdb
+C:\Users\ASUS\source\repos\ObjectDataType\obj\Debug\ObjectDataType.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ObjectDataType\obj\Debug\ObjectDataType.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ObjectDataType\obj\Debug\ObjectDataType.exe
+C:\Users\ASUS\source\repos\ObjectDataType\obj\Debug\ObjectDataType.pdb
